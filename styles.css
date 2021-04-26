@@ -100,10 +100,10 @@ header p {
       url(images/bg-pattern-bottom-mobile.svg) no-repeat right bottom;
     padding-left: 1.5rem;
     padding-right: 1.5rem;
+    padding: 5rem;
   }
 
   header {
-    margin-top: 5rem;
     text-align: center;
   }
 
